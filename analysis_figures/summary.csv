@@ -1,0 +1,9 @@
+Metric,Value
+Best test accuracy,96.87%
+Best epoch,81
+Final test accuracy,96.58%
+Final train accuracy,96.82%
+Final generalization gap (pp),0.24
+Final hidden firing rate (Hz),17.48
+Final output firing rate (Hz),30.47
+Training + testing runtime (h),24.89
